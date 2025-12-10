@@ -24,10 +24,8 @@ git clone https://github.com/erif95/multi-bank-java-character-count.git
 
 Open your terminal or command prompt, navigate to the directory (cd to src) where you saved the file, and compile the code using the `javac` command:
 
-first command : 
+command : 
 - javac CharacterCounter.java
-second command : 
-
 - java CharacterCounter
 
 After that you can see the output
